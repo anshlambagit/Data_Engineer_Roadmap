@@ -10,11 +10,16 @@ BUT!!! It requires dedication, practice, and a passion for data. So, buckle up a
 This is a COMPLETE **200+ HRS** of DATA ENGINEERING LEARNING PATH on YouTube [FOR FREE]. TRUST ME, this has already helped MANY PEOPLE to land their DREAM JOB as a DATA ENGINEER [I have already shared their testimonials in so many videos]. 
 BUT, why I am sharing this for FREE instead of charging thousands of dollars? Simple Reason : I want to GIVE BACK to the COMMUNITY that has given me so much. Knowledge should be accessible to everyone, and I believe in empowering individuals to achieve their career goals without financial barriers. And, I need your support to make this REPOSITORY a REVOLUTION in the DATA ENGINEERING COMMUNITY. So, just FORK, STAR, and SHARE this REPOSITORY with your FRIENDS and COLLEAGUES. 
 
-Let's make DATA ENGINEERING EDUCATION ACCESSIBLE to ALL TOGETHER!
-
-
 **Who is this for?**
 - Anyone want to become a DATA ENGINEER and actually dedicated to learning DATA ENGINEERING seriously. You can be from any background as long as you have the passion and dedication to learn.
+
+Let's make DATA ENGINEERING EDUCATION ACCESSIBLE to ALL TOGETHER!
+
+I want YOUR SUPPORT to make this REPOSITORY available to every single person who wants to become a DATA ENGINEER. So, 
+- STAR this Repository
+- FORK it [so that you will get the updates]
+- SHARE it [on LinkedIn and Tag me - will repost]
+
 
 
 ## Module 1: Non-Negotiables of Data Engineering
