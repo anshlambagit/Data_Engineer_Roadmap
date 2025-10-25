@@ -153,7 +153,7 @@ You can pick any CHAPTERS[Videos] of your CHOICE based on your INTERVIEW PREPARA
 
 I know that EACH learner has different skills and background. So, you can always SKIP any MODULE or VIDEO that you already know. OR, you can DEEP DIVE into any TOPIC or TECHNOLOGY that interests you the most. The CHOICE is YOURS. This ROADMAP is a STRUCTURED GUIDE and you can always CUSTOMIZE it based on your NEEDS and GOALS. 
 
-`ONE PRO TIP`: If you are looking for a SPECIFIC TOPIC to learn, ALWAYS search for that TOPIC and add "Ansh Lamba" with it. I have created DETAILED videos on ALMOST EVERY TOPIC related to DATA ENGINEERING. So, you will most probably find a DETAILED video on that TOPIC.
+`ONE PRO TIP`: If you are looking for a SPECIFIC TOPIC to learn, ALWAYS search for that TOPIC on GOOGLE/YOUTUBE and add "Ansh Lamba" with it. I have created DETAILED videos on ALMOST EVERY TOPIC related to DATA ENGINEERING. So, you will most probably find a DETAILED video on that TOPIC.
 
 
 **Remember**: This ROADMAP will be UPDATED on a WEEKLY BASIS with NEW CONTENT and IMPROVEMENTS. So, KEEP COMING BACK to this REPOSITORY for UPDATES [Yes, you NEED to be consistent].
